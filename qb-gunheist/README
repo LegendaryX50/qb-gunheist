@@ -36,3 +36,7 @@ Add to core/shared.lua
 		["combinable"] = nil,   
 		["description"] = "A key that is Blue"
 		},
+
+
+
+Add the Images in the images folder to qb-inventory/html/images
